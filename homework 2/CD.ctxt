@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=title1\ artists1\ noOfTracks1\ costs1
+comment0.target=CD(java.lang.String,\ java.lang.String,\ int,\ double)
+comment1.params=
+comment1.target=java.lang.String\ accessTitle()
+comment10.params=
+comment10.target=void\ printReport()
+comment2.params=
+comment2.target=java.lang.String\ accessArtist()
+comment3.params=
+comment3.target=int\ accessNoOfTracks()
+comment4.params=
+comment4.target=double\ accessCost()
+comment5.params=
+comment5.target=int\ accessCountBorrow()
+comment6.params=
+comment6.target=void\ borrow()
+comment7.params=
+comment7.target=void\ reportInStock()
+comment8.params=
+comment8.target=void\ returnCD()
+comment9.params=
+comment9.target=double\ calculateEarnings()
+numComments=11
